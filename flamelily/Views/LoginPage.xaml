@@ -4,9 +4,9 @@
              xmlns:prism="clr-namespace:Prism.Mvvm;assembly=Prism.Forms"
              prism:ViewModelLocator.AutowireViewModel="True"
              x:Class="flamelily.Views.LoginPage">
-    <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
-        <Label Text="Log-in Page" />
-        <Entry Text="{Binding UserName}" Placeholder="Enter User name" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"/>
+    <StackLayout Padding="20" HorizontalOptions="Fill"  VerticalOptions="CenterAndExpand">
+        <Label Text="Log-in Page" HorizontalOptions="CenterAndExpand" />
+        <Entry Text="{Binding UserName}" Placeholder="Enter User name"  VerticalOptions="CenterAndExpand"/>
         <Entry IsPassword="True" Text="{Binding Password}" Placeholder="enter password" />
         <Button Text="Login" Command="{Binding onExecuteCommand}" />
     </StackLayout>
