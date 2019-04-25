@@ -1,0 +1,17 @@
+D:\vhosts\flamelily\flamelily\flamelily\bin\Debug\netstandard2.0\flamelily.deps.json
+D:\vhosts\flamelily\flamelily\flamelily\bin\Debug\netstandard2.0\flamelily.dll
+D:\vhosts\flamelily\flamelily\flamelily\bin\Debug\netstandard2.0\flamelily.pdb
+D:\vhosts\flamelily\flamelily\flamelily\obj\Debug\netstandard2.0\flamelily.csprojAssemblyReference.cache
+D:\vhosts\flamelily\flamelily\flamelily\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\vhosts\flamelily\flamelily\flamelily\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\vhosts\flamelily\flamelily\flamelily\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+D:\vhosts\flamelily\flamelily\flamelily\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\vhosts\flamelily\flamelily\flamelily\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+D:\vhosts\flamelily\flamelily\flamelily\obj\Debug\netstandard2.0\Views\RegistryPage.xaml.g.cs
+D:\vhosts\flamelily\flamelily\flamelily\obj\Debug\netstandard2.0\Views\SettingsPage.xaml.g.cs
+D:\vhosts\flamelily\flamelily\flamelily\obj\Debug\netstandard2.0\flamelily.csproj.CoreCompileInputs.cache
+D:\vhosts\flamelily\flamelily\flamelily\obj\Debug\netstandard2.0\flamelily.AssemblyInfoInputs.cache
+D:\vhosts\flamelily\flamelily\flamelily\obj\Debug\netstandard2.0\flamelily.AssemblyInfo.cs
+D:\vhosts\flamelily\flamelily\flamelily\obj\Debug\netstandard2.0\XamlC.stamp
+D:\vhosts\flamelily\flamelily\flamelily\obj\Debug\netstandard2.0\flamelily.dll
+D:\vhosts\flamelily\flamelily\flamelily\obj\Debug\netstandard2.0\flamelily.pdb

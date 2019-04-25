@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="flamelily.Views.MainPage"
+             Title="{Binding Title}">
+    <AbsoluteLayout  HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+        
+        <StackLayout AbsoluteLayout.LayoutBounds="0,0,1,0.7" AbsoluteLayout.LayoutFlags="All" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+            <Label Text="Project Flamelily Welcomes you!!" />
+        </StackLayout>
+        <Button AbsoluteLayout.LayoutBounds="0,1,0.5,0.1" AbsoluteLayout.LayoutFlags="All" Text="Log in" Command="{Binding OnNavigationCommand}" CommandParameter="NavigationPage/LoginPage"/>
+        <Button AbsoluteLayout.LayoutBounds="1,1,0.5,0.1" AbsoluteLayout.LayoutFlags="All" Text="Register" Command="{Binding OnNavigationCommand}" CommandParameter="NavigationPage/RegistryPage"/>
+        
+    </AbsoluteLayout>
+
+</ContentPage>
