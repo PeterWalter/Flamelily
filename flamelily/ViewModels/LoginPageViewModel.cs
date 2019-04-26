@@ -1,5 +1,6 @@
 ﻿using Prism.Commands;
 using Prism.Mvvm;
+using Prism.Navigation;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,6 +9,8 @@ namespace flamelily.ViewModels
 {
     public class LoginPageViewModel : BindableBase
     {
+        public DelegateCommand<string> OnExecuteCommand { get; set; }
+        private readonly INavigationService _navigationService;
         private string _userName;
 
         public string UserName
@@ -22,9 +25,16 @@ namespace flamelily.ViewModels
             get { return _password; }
             set { SetProperty(ref _password, value); }
         }
-        public LoginPageViewModel()
+        public LoginPageViewModel(INavigationService navigationService)
         {
-            
+            _navigationService = navigationService;
+            OnExecuteCommand = new DelegateCommand<string>(loadMainpageAsync);
         }
+
+        async void loadMainpageAsync(string menu)
+            {
+                await _navigationService.NavigateAsync(menu);
+            }
+
     }
 }
