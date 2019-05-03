@@ -7,7 +7,7 @@ using System.Linq;
 
 namespace flamelily.ViewModels
 {
-    public class LoginPageViewModel : BindableBase
+    public class LoginPageViewModel : ViewModelBase
     {
         public DelegateCommand<string> OnExecuteCommand { get; set; }
         private readonly INavigationService _navigationService;
@@ -26,14 +26,16 @@ namespace flamelily.ViewModels
             set { SetProperty(ref _password, value); }
         }
         public LoginPageViewModel(INavigationService navigationService)
+            : base(navigationService)
         {
+            Title = "Login page";
             _navigationService = navigationService;
-            OnExecuteCommand = new DelegateCommand<string>(loadMainpageAsync);
+            OnExecuteCommand = new DelegateCommand<string>(LoadMainpageAsync);
         }
 
-        async void loadMainpageAsync(string menu)
+        private async void LoadMainpageAsync(string data)
             {
-                await _navigationService.NavigateAsync(menu);
+                await _navigationService.NavigateAsync(data);
             }
 
     }

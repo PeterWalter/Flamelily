@@ -23,18 +23,23 @@ namespace flamelily
         {
             InitializeComponent();
 
-            await NavigationService.NavigateAsync("NavigationPage/MainPage");
+            await NavigationService.NavigateAsync("MainPage");
         }
 
         protected override void RegisterTypes(IContainerRegistry containerRegistry)
         {
+
+            containerRegistry.RegisterForNavigation<ControlPage, ControlPageViewModel>();
             containerRegistry.RegisterForNavigation<NavigationPage>();
+            //containerRegistry.RegisterForNavigation<MenuPage, MenuPageViewModel>();
             containerRegistry.RegisterForNavigation<MainPage, MainPageViewModel>();
             containerRegistry.RegisterForNavigation<LoginPage, LoginPageViewModel>();
             containerRegistry.RegisterForNavigation<RegistryPage, RegistryPageViewModel>();
             containerRegistry.RegisterForNavigation<AboutPage, AboutPageViewModel>();
             containerRegistry.RegisterForNavigation<SettingsPage, SettingsPageViewModel>();
-            containerRegistry.RegisterForNavigation<MenuPage, MenuPageViewModel>();
+
+            //   containerRegistry.RegisterForNavigation<MasterDetailPage1, MasterDetailPage1ViewModel>();
+            
         }
     }
 }

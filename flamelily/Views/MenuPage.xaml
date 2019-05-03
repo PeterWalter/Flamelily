@@ -6,12 +6,17 @@
                   x:Class="flamelily.Views.MenuPage">
 
     <MasterDetailPage.Master>
+        <NavigationPage Title="{Binding Title}">
+            <x:Arguments>
         <ContentPage Title="Menu">
+                
             <StackLayout Padding="20">
                 <!-- TODO: // Update the Layout and add some real menu items  -->
                 <Button Text="ViewA" Command="{Binding NavigateCommand}" CommandParameter="ViewA" />
             </StackLayout>
         </ContentPage>
+            </x:Arguments>
+        </NavigationPage>
     </MasterDetailPage.Master>
     
 </MasterDetailPage>

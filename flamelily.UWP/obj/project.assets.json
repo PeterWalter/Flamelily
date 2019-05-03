@@ -7554,11 +7554,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\vhosts\\Flamelily\\flamelily\\flamelily.UWP\\flamelily.UWP.csproj",
+      "projectUniqueName": "D:\\vhosts\\flamelily\\flamelily\\flamelily.UWP\\flamelily.UWP.csproj",
       "projectName": "flamelily.UWP",
-      "projectPath": "D:\\vhosts\\Flamelily\\flamelily\\flamelily.UWP\\flamelily.UWP.csproj",
+      "projectPath": "D:\\vhosts\\flamelily\\flamelily\\flamelily.UWP\\flamelily.UWP.csproj",
       "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-      "outputPath": "D:\\vhosts\\Flamelily\\flamelily\\flamelily.UWP\\obj\\",
+      "outputPath": "D:\\vhosts\\flamelily\\flamelily\\flamelily.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -7580,8 +7580,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "D:\\vhosts\\Flamelily\\flamelily\\flamelily\\flamelily.csproj": {
-              "projectPath": "D:\\vhosts\\Flamelily\\flamelily\\flamelily\\flamelily.csproj"
+            "D:\\vhosts\\flamelily\\flamelily\\flamelily\\flamelily.csproj": {
+              "projectPath": "D:\\vhosts\\flamelily\\flamelily\\flamelily\\flamelily.csproj"
             }
           }
         }
