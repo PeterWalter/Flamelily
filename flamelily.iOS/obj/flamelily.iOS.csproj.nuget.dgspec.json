@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\vhosts\\flamelily\\flamelily\\flamelily.iOS\\flamelily.iOS.csproj": {}
+    "D:\\vhosts\\Flamelily\\flamelily\\flamelily.iOS\\flamelily.iOS.csproj": {}
   },
   "projects": {
-    "D:\\vhosts\\flamelily\\flamelily\\flamelily.iOS\\flamelily.iOS.csproj": {
+    "D:\\vhosts\\Flamelily\\flamelily\\flamelily.iOS\\flamelily.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\vhosts\\flamelily\\flamelily\\flamelily.iOS\\flamelily.iOS.csproj",
+        "projectUniqueName": "D:\\vhosts\\Flamelily\\flamelily\\flamelily.iOS\\flamelily.iOS.csproj",
         "projectName": "flamelily.iOS",
-        "projectPath": "D:\\vhosts\\flamelily\\flamelily\\flamelily.iOS\\flamelily.iOS.csproj",
+        "projectPath": "D:\\vhosts\\Flamelily\\flamelily\\flamelily.iOS\\flamelily.iOS.csproj",
         "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-        "outputPath": "D:\\vhosts\\flamelily\\flamelily\\flamelily.iOS\\obj\\",
+        "outputPath": "D:\\vhosts\\Flamelily\\flamelily\\flamelily.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "D:\\vhosts\\flamelily\\flamelily\\flamelily\\flamelily.csproj": {
-                "projectPath": "D:\\vhosts\\flamelily\\flamelily\\flamelily\\flamelily.csproj"
+              "D:\\vhosts\\Flamelily\\flamelily\\flamelily\\flamelily.csproj": {
+                "projectPath": "D:\\vhosts\\Flamelily\\flamelily\\flamelily\\flamelily.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "D:\\vhosts\\flamelily\\flamelily\\flamelily\\flamelily.csproj": {
+    "D:\\vhosts\\Flamelily\\flamelily\\flamelily\\flamelily.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\vhosts\\flamelily\\flamelily\\flamelily\\flamelily.csproj",
+        "projectUniqueName": "D:\\vhosts\\Flamelily\\flamelily\\flamelily\\flamelily.csproj",
         "projectName": "flamelily",
-        "projectPath": "D:\\vhosts\\flamelily\\flamelily\\flamelily\\flamelily.csproj",
+        "projectPath": "D:\\vhosts\\Flamelily\\flamelily\\flamelily\\flamelily.csproj",
         "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-        "outputPath": "D:\\vhosts\\flamelily\\flamelily\\flamelily\\obj\\",
+        "outputPath": "D:\\vhosts\\Flamelily\\flamelily\\flamelily\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\ProgramData\\Xamarin\\NuGet\\",

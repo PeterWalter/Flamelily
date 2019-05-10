@@ -954,11 +954,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\vhosts\\flamelily\\flamelily\\flamelily.Android\\flamelily.Android.csproj",
+      "projectUniqueName": "D:\\vhosts\\Flamelily\\flamelily\\flamelily.Android\\flamelily.Android.csproj",
       "projectName": "flamelily.Android",
-      "projectPath": "D:\\vhosts\\flamelily\\flamelily\\flamelily.Android\\flamelily.Android.csproj",
+      "projectPath": "D:\\vhosts\\Flamelily\\flamelily\\flamelily.Android\\flamelily.Android.csproj",
       "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-      "outputPath": "D:\\vhosts\\flamelily\\flamelily\\flamelily.Android\\obj\\",
+      "outputPath": "D:\\vhosts\\Flamelily\\flamelily\\flamelily.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -979,8 +979,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "D:\\vhosts\\flamelily\\flamelily\\flamelily\\flamelily.csproj": {
-              "projectPath": "D:\\vhosts\\flamelily\\flamelily\\flamelily\\flamelily.csproj"
+            "D:\\vhosts\\Flamelily\\flamelily\\flamelily\\flamelily.csproj": {
+              "projectPath": "D:\\vhosts\\Flamelily\\flamelily\\flamelily\\flamelily.csproj"
             }
           }
         }
