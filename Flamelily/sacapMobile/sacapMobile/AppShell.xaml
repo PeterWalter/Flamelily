@@ -31,11 +31,11 @@
 
     <!--pages not visible from shell-->
     <ShellItem Route="Login">
-        <ShellContent ContentTemplate="{DataTemplate local:LoginView}"
+        <ShellContent ContentTemplate="{DataTemplate local:LoginView}"/>
     </ShellItem>
         
      <ShellItem Route="Registration">
-        <ShellContent ContentTemplate="{DataTemplate local:RegistrationView}"
+        <ShellContent ContentTemplate="{DataTemplate local:RegistrationView}"/>
     </ShellItem>
                     <!-- Your Pages -->
     <TabBar>
