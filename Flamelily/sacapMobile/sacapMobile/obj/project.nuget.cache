@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7rlfaGta76LYTtVRXxGJEFgGPmjZlmxIsswooAZoAezT70F2McdoN9B0fOnaLwD0/SRyDM8cpqOx6bbdehIzmQ==",
+  "dgSpecHash": "vaJCEnjN6oG/iHhtGVxIkaePRex6F/qEGXPzkaxn1MDFK7bddMALbBureEKFQofUMiYNsKuooky7aUAL6SO5Zg==",
   "success": true,
-  "projectFilePath": "C:\\projects\\sacap\\Flamelily\\Flamelily\\sacapMobile\\sacapMobile\\sacapMobile.csproj",
+  "projectFilePath": "C:\\projects\\sacap\\Flamelily\\Flamelily2\\Flamelily\\sacapMobile\\sacapMobile\\sacapMobile.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\peter.SACAP\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

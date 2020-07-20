@@ -30,24 +30,27 @@ namespace sacapMobile.ViewModels
                 return SimpleIoc.Default.GetInstance<LoginViewModel>();
             }
         }
-
-        //public HomeViewModel homeVM
-        //{
-        //    get
-        //    {
-        //        return ServiceLocator.Current.GetInstance<HomeViewModel>();
-        //    }
-        //}
-
         public RegistrationViewModel registrationVM
         {
             get
             {
-                if(!SimpleIoc.Default.IsRegistered<RegistrationViewModel>())
+                if (!SimpleIoc.Default.IsRegistered<RegistrationViewModel>())
                 {
                     SimpleIoc.Default.Register<RegistrationViewModel>();
                 }
                 return SimpleIoc.Default.GetInstance<RegistrationViewModel>();
+            }
+        }
+
+        public HomeViewModel homeVM
+        {
+            get
+            {
+                if(!SimpleIoc.Default.IsRegistered<HomeViewModel>())
+                {
+                    SimpleIoc.Default.Register<HomeViewModel>();
+                }
+                return SimpleIoc.Default.GetInstance<HomeViewModel>();
             }
         }
 

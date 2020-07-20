@@ -15,6 +15,7 @@ namespace sacapMobile.Views
         public HomeView()
         {
             InitializeComponent();
+            BindingContext = App.ViewModelLocator.homeVM;
         }
     }
 }

@@ -2720,11 +2720,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\sacap\\Flamelily\\Flamelily\\sacapMobile\\sacapMobile.Android\\sacapMobile.Android.csproj",
+      "projectUniqueName": "C:\\projects\\sacap\\Flamelily\\Flamelily2\\Flamelily\\sacapMobile\\sacapMobile.Android\\sacapMobile.Android.csproj",
       "projectName": "sacapMobile.Android",
-      "projectPath": "C:\\projects\\sacap\\Flamelily\\Flamelily\\sacapMobile\\sacapMobile.Android\\sacapMobile.Android.csproj",
+      "projectPath": "C:\\projects\\sacap\\Flamelily\\Flamelily2\\Flamelily\\sacapMobile\\sacapMobile.Android\\sacapMobile.Android.csproj",
       "packagesPath": "C:\\Users\\peter.SACAP\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\sacap\\Flamelily\\Flamelily\\sacapMobile\\sacapMobile.Android\\obj\\",
+      "outputPath": "C:\\projects\\sacap\\Flamelily\\Flamelily2\\Flamelily\\sacapMobile\\sacapMobile.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2745,8 +2745,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\projects\\sacap\\Flamelily\\Flamelily\\sacapMobile\\sacapMobile\\sacapMobile.csproj": {
-              "projectPath": "C:\\projects\\sacap\\Flamelily\\Flamelily\\sacapMobile\\sacapMobile\\sacapMobile.csproj"
+            "C:\\projects\\sacap\\Flamelily\\Flamelily2\\Flamelily\\sacapMobile\\sacapMobile\\sacapMobile.csproj": {
+              "projectPath": "C:\\projects\\sacap\\Flamelily\\Flamelily2\\Flamelily\\sacapMobile\\sacapMobile\\sacapMobile.csproj"
             }
           }
         }

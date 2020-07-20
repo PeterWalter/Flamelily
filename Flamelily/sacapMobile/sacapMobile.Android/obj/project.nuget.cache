@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/+04lMdrfyybMuj1zFVfqnBc8hsaD05uTulVfUosmCq+gAQIde6+yoagxeFEsd6bBcQr/69vy+1VZa41/BRHGg==",
+  "dgSpecHash": "gR6PKBFClftRZCx/+EZRYNKFUxhhq78rSNhx+i7LbQ59LQdInudeW0zPXIbM54ocw6QwGE94Ks0p4wfPj2F4yw==",
   "success": true,
-  "projectFilePath": "C:\\projects\\sacap\\Flamelily\\Flamelily\\sacapMobile\\sacapMobile.Android\\sacapMobile.Android.csproj",
+  "projectFilePath": "C:\\projects\\sacap\\Flamelily\\Flamelily2\\Flamelily\\sacapMobile\\sacapMobile.Android\\sacapMobile.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\peter.SACAP\\.nuget\\packages\\commonservicelocator\\2.0.5\\commonservicelocator.2.0.5.nupkg.sha512",
     "C:\\Users\\peter.SACAP\\.nuget\\packages\\mvvmlight.xamarinforms\\1.0.1\\mvvmlight.xamarinforms.1.0.1.nupkg.sha512",

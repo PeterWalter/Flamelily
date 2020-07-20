@@ -1992,11 +1992,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\sacap\\Flamelily\\Flamelily\\sacapMobile\\sacapMobile.iOS\\sacapMobile.iOS.csproj",
+      "projectUniqueName": "C:\\projects\\sacap\\Flamelily\\Flamelily2\\Flamelily\\sacapMobile\\sacapMobile.iOS\\sacapMobile.iOS.csproj",
       "projectName": "sacapMobile.iOS",
-      "projectPath": "C:\\projects\\sacap\\Flamelily\\Flamelily\\sacapMobile\\sacapMobile.iOS\\sacapMobile.iOS.csproj",
+      "projectPath": "C:\\projects\\sacap\\Flamelily\\Flamelily2\\Flamelily\\sacapMobile\\sacapMobile.iOS\\sacapMobile.iOS.csproj",
       "packagesPath": "C:\\Users\\peter.SACAP\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\sacap\\Flamelily\\Flamelily\\sacapMobile\\sacapMobile.iOS\\obj\\",
+      "outputPath": "C:\\projects\\sacap\\Flamelily\\Flamelily2\\Flamelily\\sacapMobile\\sacapMobile.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2017,8 +2017,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\projects\\sacap\\Flamelily\\Flamelily\\sacapMobile\\sacapMobile\\sacapMobile.csproj": {
-              "projectPath": "C:\\projects\\sacap\\Flamelily\\Flamelily\\sacapMobile\\sacapMobile\\sacapMobile.csproj"
+            "C:\\projects\\sacap\\Flamelily\\Flamelily2\\Flamelily\\sacapMobile\\sacapMobile\\sacapMobile.csproj": {
+              "projectPath": "C:\\projects\\sacap\\Flamelily\\Flamelily2\\Flamelily\\sacapMobile\\sacapMobile\\sacapMobile.csproj"
             }
           }
         }
