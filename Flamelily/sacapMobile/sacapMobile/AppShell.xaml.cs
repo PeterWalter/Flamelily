@@ -9,8 +9,7 @@ namespace sacapMobile
     {
         public AppShell()
         {
-            InitializeComponent();
-           
+            InitializeComponent();        
         }
     }
 }

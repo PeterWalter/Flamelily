@@ -13,10 +13,23 @@ namespace sacapMobile.ViewModels
         public ViewModelLocator()
         {
             //ServiceLocator.SetLocatorProvider(() => (IServiceLocator)SimpleIoc.Default);
+           // SimpleIoc.Default.Register<CampusViewModel>();
             SimpleIoc.Default.Register<LoginViewModel>();
             SimpleIoc.Default.Register<HomeViewModel>();
             SimpleIoc.Default.Register<RegistrationViewModel>();
+            
         }
+        //public CampusViewModel campusVM
+        //{
+        //    get
+        //    {
+        //        if (!SimpleIoc.Default.IsRegistered<CampusViewModel>())
+        //        {
+        //            SimpleIoc.Default.Register<CampusViewModel>();
+        //        }
+        //        return SimpleIoc.Default.GetInstance<CampusViewModel>();
+        //    }
+        //}
 
         public LoginViewModel loginVM
         {
@@ -30,6 +43,7 @@ namespace sacapMobile.ViewModels
                 return SimpleIoc.Default.GetInstance<LoginViewModel>();
             }
         }
+       
         public RegistrationViewModel registrationVM
         {
             get
@@ -54,7 +68,7 @@ namespace sacapMobile.ViewModels
             }
         }
 
-
+     
 
     }
 }
