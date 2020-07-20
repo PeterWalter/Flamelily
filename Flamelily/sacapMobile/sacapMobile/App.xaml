@@ -7,6 +7,6 @@
              mc:Ignorable="d"
              x:Class="sacapMobile.App">
     <Application.Resources>
-        <vm:ViewModelLocator x:Key="Locator"/>
-    </Application.Resources>
+            <vm:ViewModelLocator x:Key="locator"/>
+        </Application.Resources>
 </Application>

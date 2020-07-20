@@ -5,7 +5,8 @@
        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
        mc:Ignorable="d"
        xmlns:local="clr-namespace:sacapMobile.Views"
-       Title="sacapMobile"
+       Title="SacapMobile"
+       Shell.NavBarIsVisible="False"
        x:Class="sacapMobile.AppShell">
 
     <!-- 
@@ -30,22 +31,22 @@
     </Shell.Resources>
 
     <!--pages not visible from shell-->
-    <ShellItem Route="Login">
+    <ShellItem Route="login">
         <ShellContent ContentTemplate="{DataTemplate local:LoginView}"/>
     </ShellItem>
         
-     <ShellItem Route="Registration">
+     <ShellItem Route="registration">
         <ShellContent ContentTemplate="{DataTemplate local:RegistrationView}"/>
     </ShellItem>
                     <!-- Your Pages -->
-    <TabBar>
+    <!--<TabBar>
         <Tab Title="Browse" Icon="tab_feed.png">
             <ShellContent ContentTemplate="{DataTemplate local:ItemsPage}" />
         </Tab>
         <Tab Title="About" Icon="tab_about.png">
             <ShellContent ContentTemplate="{DataTemplate local:AboutPage}" />
         </Tab>
-    </TabBar>
+    </TabBar>-->
 
     <!-- Optional Templates 
     // These may be provided inline as below or as separate classes.

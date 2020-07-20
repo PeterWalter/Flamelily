@@ -15,6 +15,7 @@ namespace sacapMobile.Views
         public RegistrationView()
         {
             InitializeComponent();
+            BindingContext = App.ViewModelLocator.registrationVM;
         }
     }
 }

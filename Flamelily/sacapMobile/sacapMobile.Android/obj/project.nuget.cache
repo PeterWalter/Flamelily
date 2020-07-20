@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "6g9lRQ5bB1mzuCvXrfm7I8KLeoZgLtXzP+2V0Y+9oBNHgdaqeDcZXXZCCATCvSfBsukVITgBYu25V2InF2P4/g==",
+  "dgSpecHash": "/+04lMdrfyybMuj1zFVfqnBc8hsaD05uTulVfUosmCq+gAQIde6+yoagxeFEsd6bBcQr/69vy+1VZa41/BRHGg==",
   "success": true,
   "projectFilePath": "C:\\projects\\sacap\\Flamelily\\Flamelily\\sacapMobile\\sacapMobile.Android\\sacapMobile.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\peter.SACAP\\.nuget\\packages\\commonservicelocator\\2.0.5\\commonservicelocator.2.0.5.nupkg.sha512",
+    "C:\\Users\\peter.SACAP\\.nuget\\packages\\mvvmlight.xamarinforms\\1.0.1\\mvvmlight.xamarinforms.1.0.1.nupkg.sha512",
+    "C:\\Users\\peter.SACAP\\.nuget\\packages\\mvvmlightlibs\\5.4.1.1\\mvvmlightlibs.5.4.1.1.nupkg.sha512",
     "C:\\Users\\peter.SACAP\\.nuget\\packages\\mvvmlightlibsstd10\\5.4.1.1\\mvvmlightlibsstd10.5.4.1.1.nupkg.sha512",
+    "C:\\Users\\peter.SACAP\\.nuget\\packages\\mvvmlightnavigationserviceextension\\1.2.0\\mvvmlightnavigationserviceextension.1.2.0.nupkg.sha512",
     "C:\\Users\\peter.SACAP\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\peter.SACAP\\.nuget\\packages\\plugin.currentactivity\\2.1.0.4\\plugin.currentactivity.2.1.0.4.nupkg.sha512",
     "C:\\Users\\peter.SACAP\\.nuget\\packages\\plugin.firebaseauth\\3.1.0\\plugin.firebaseauth.3.1.0.nupkg.sha512",

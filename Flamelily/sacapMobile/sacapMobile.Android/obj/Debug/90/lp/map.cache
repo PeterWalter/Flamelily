@@ -1,5 +1,6 @@
 FormsViewGroup
 GalaSoft.MvvmLight.Platform
+MvvmLightNavigationExtension.Droid
 Plugin.CurrentActivity
 Plugin.FirebaseAuth
 Xamarin.Android.Arch.Core.Common

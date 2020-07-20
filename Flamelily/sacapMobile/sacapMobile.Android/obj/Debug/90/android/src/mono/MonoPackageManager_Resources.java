@@ -3,9 +3,14 @@ public class MonoPackageManager_Resources {
 	public static String[] Assemblies = new String[]{
 		/* We need to ensure that "sacapMobile.Android.dll" comes first in this list. */
 		"sacapMobile.Android.dll",
+		"CommonServiceLocator.dll",
 		"FormsViewGroup.dll",
 		"GalaSoft.MvvmLight.dll",
+		"GalaSoft.MvvmLight.Extras.dll",
 		"GalaSoft.MvvmLight.Platform.dll",
+		"MvvmLight.XamarinForms.dll",
+		"MvvmLightNavigationExtension.dll",
+		"MvvmLightNavigationExtension.Droid.dll",
 		"Newtonsoft.Json.dll",
 		"Plugin.CurrentActivity.dll",
 		"Plugin.FirebaseAuth.dll",

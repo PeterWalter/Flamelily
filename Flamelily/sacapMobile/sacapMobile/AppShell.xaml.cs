@@ -10,7 +10,7 @@ namespace sacapMobile
         public AppShell()
         {
             InitializeComponent();
-            Shell.Current.GoToAsync("Login");
+           
         }
     }
 }

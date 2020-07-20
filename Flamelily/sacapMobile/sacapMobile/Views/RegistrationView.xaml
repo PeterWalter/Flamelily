@@ -4,12 +4,14 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-             x:Class="sacapMobile.Views.RegistrationView">
+             x:Class="sacapMobile.Views.RegistrationView"
+             BindingContext="Binding registrationVM, Source={StaticResource Locator}">
     <ContentPage.Content>
         <StackLayout>
             <Label Text="Welcome to Xamarin.Forms!"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
+            <Button Text="register" Command="{Binding registerCommand}"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

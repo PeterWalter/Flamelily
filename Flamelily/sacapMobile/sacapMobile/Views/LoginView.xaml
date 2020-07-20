@@ -4,12 +4,17 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-             x:Class="sacapMobile.Views.LoginView">
+             x:Class="sacapMobile.Views.LoginView"
+             BindingContext="Binding loginVM, Source={StaticResource Locator}">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
+            <!--<Label Text="Welcome to SACAP!"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
+            <Entry  Text="username" FontSize="Medium"/>-->
+            <Button Text="log-in" Command="{Binding loginCommand}"/>
         </StackLayout>
+        
+
     </ContentPage.Content>
 </ContentPage>

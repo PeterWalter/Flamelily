@@ -15,6 +15,8 @@ namespace sacapMobile.Views
         public LoginView()
         {
             InitializeComponent();
+            //    BindingContext = App.locator.loginVM;
+            BindingContext = App.ViewModelLocator.loginVM;
         }
     }
 }

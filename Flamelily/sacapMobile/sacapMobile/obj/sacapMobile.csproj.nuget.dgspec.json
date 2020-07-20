@@ -43,9 +43,9 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
-            "MvvmLightLibsStd10": {
+            "MvvmLight.XamarinForms": {
               "target": "Package",
-              "version": "[5.4.1.1, )"
+              "version": "[1.0.1, )"
             },
             "NETStandard.Library": {
               "suppressParent": "All",
