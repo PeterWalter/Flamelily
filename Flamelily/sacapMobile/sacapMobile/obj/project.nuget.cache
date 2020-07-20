@@ -1,14 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "vaJCEnjN6oG/iHhtGVxIkaePRex6F/qEGXPzkaxn1MDFK7bddMALbBureEKFQofUMiYNsKuooky7aUAL6SO5Zg==",
+  "dgSpecHash": "BAiBclOJtnxf//KelkTxh8NUKj5GJuoXja0hzwzBZXemvdK09a3Eci9NYBb/xhrZcsAP87pWid5SLOO6dwsiFg==",
   "success": true,
   "projectFilePath": "C:\\projects\\sacap\\Flamelily\\Flamelily2\\Flamelily\\sacapMobile\\sacapMobile\\sacapMobile.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\peter.SACAP\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
-    "C:\\Users\\peter.SACAP\\.nuget\\packages\\mvvmlight.xamarinforms\\1.0.1\\mvvmlight.xamarinforms.1.0.1.nupkg.sha512",
-    "C:\\Users\\peter.SACAP\\.nuget\\packages\\mvvmlightlibs\\5.3.0\\mvvmlightlibs.5.3.0.nupkg.sha512",
-    "C:\\Users\\peter.SACAP\\.nuget\\packages\\mvvmlightnavigationserviceextension\\1.2.0\\mvvmlightnavigationserviceextension.1.2.0.nupkg.sha512",
+    "C:\\Users\\peter.SACAP\\.nuget\\packages\\mvvmlightlibs\\5.4.1.1\\mvvmlightlibs.5.4.1.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\peter.SACAP\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\peter.SACAP\\.nuget\\packages\\plugin.firebaseauth\\3.1.0\\plugin.firebaseauth.3.1.0.nupkg.sha512",
@@ -24,28 +22,8 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'MvvmLight.XamarinForms 1.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
-      "libraryId": "MvvmLight.XamarinForms",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.0"
-      ]
-    },
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'MvvmLightLibs 5.3.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "message": "Package 'MvvmLightLibs 5.4.1.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
       "libraryId": "MvvmLightLibs",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.0"
-      ]
-    },
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'MvvmLightNavigationServiceExtension 1.2.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
-      "libraryId": "MvvmLightNavigationServiceExtension",
       "targetGraphs": [
         ".NETStandard,Version=v2.0"
       ]

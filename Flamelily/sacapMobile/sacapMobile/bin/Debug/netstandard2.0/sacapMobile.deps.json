@@ -9,7 +9,7 @@
     ".NETStandard,Version=v2.0/": {
       "sacapMobile/1.0.0": {
         "dependencies": {
-          "MvvmLight.XamarinForms": "1.0.1",
+          "MvvmLightLibs": "5.4.1.1",
           "NETStandard.Library": "2.0.3",
           "Newtonsoft.Json": "12.0.3",
           "Plugin.FirebaseAuth": "3.1.0",
@@ -23,47 +23,23 @@
       },
       "Microsoft.NETCore.Platforms/1.1.0": {},
       "Microsoft.NETCore.Targets/1.1.0": {},
-      "MvvmLight.XamarinForms/1.0.1": {
-        "dependencies": {
-          "MvvmLightLibs": "5.3.0",
-          "MvvmLightNavigationServiceExtension": "1.2.0",
-          "Xamarin.Forms": "4.7.0.1142"
-        },
-        "runtime": {
-          "lib/portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10/MvvmLight.XamarinForms.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
-      },
-      "MvvmLightLibs/5.3.0": {
+      "MvvmLightLibs/5.4.1.1": {
         "runtime": {
           "lib/net45/GalaSoft.MvvmLight.Extras.dll": {
-            "assemblyVersion": "5.3.0.19032",
-            "fileVersion": "5.3.0.19032"
+            "assemblyVersion": "5.4.1.0",
+            "fileVersion": "5.4.1.0"
           },
           "lib/net45/GalaSoft.MvvmLight.Platform.dll": {
-            "assemblyVersion": "5.3.0.19032",
-            "fileVersion": "5.3.0.19032"
+            "assemblyVersion": "5.4.1.0",
+            "fileVersion": "5.4.1.0"
           },
           "lib/net45/GalaSoft.MvvmLight.dll": {
-            "assemblyVersion": "5.3.0.19026",
-            "fileVersion": "5.3.0.19026"
+            "assemblyVersion": "5.4.1.0",
+            "fileVersion": "5.4.1.0"
           },
           "lib/net45/System.Windows.Interactivity.dll": {
             "assemblyVersion": "4.5.0.0",
             "fileVersion": "3.0.40218.0"
-          }
-        }
-      },
-      "MvvmLightNavigationServiceExtension/1.2.0": {
-        "dependencies": {
-          "MvvmLightLibs": "5.3.0"
-        },
-        "runtime": {
-          "lib/portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10/MvvmLightNavigationExtension.dll": {
-            "assemblyVersion": "1.0.6099.39747",
-            "fileVersion": "1.0.6099.39747"
           }
         }
       },
@@ -174,26 +150,12 @@
       "path": "microsoft.netcore.targets/1.1.0",
       "hashPath": "microsoft.netcore.targets.1.1.0.nupkg.sha512"
     },
-    "MvvmLight.XamarinForms/1.0.1": {
+    "MvvmLightLibs/5.4.1.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-7MAHduTCP0kaeaklLPQZhcuDKt3cMViGO8PAnFUwFzXet7TwI1jbQ5jU/to629fYcA4NoJxkkVr/Vz9k+k9KSg==",
-      "path": "mvvmlight.xamarinforms/1.0.1",
-      "hashPath": "mvvmlight.xamarinforms.1.0.1.nupkg.sha512"
-    },
-    "MvvmLightLibs/5.3.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-h0/CPmYeYabbUfPdXGCJWdeiWGtTP7IVNz3GU6R3Jn3TFWkikCDOSYt/L9bmrroQnZFyosTWP2Gs0LDdTl311Q==",
-      "path": "mvvmlightlibs/5.3.0",
-      "hashPath": "mvvmlightlibs.5.3.0.nupkg.sha512"
-    },
-    "MvvmLightNavigationServiceExtension/1.2.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-VUlKAS35KbQNVBeO6oJ+HQvwdlC4AlP/5fnF5fH90JA0LNSNNcJj3ZhziOUkm1Tobe7vkeFE8K5RoEBoI6+yEQ==",
-      "path": "mvvmlightnavigationserviceextension/1.2.0",
-      "hashPath": "mvvmlightnavigationserviceextension.1.2.0.nupkg.sha512"
+      "sha512": "sha512-xYpVzOYnIz/M6T0pdc3w5t0vrt2ZKspSS+CZjQ+pZE+5yHv9qXSWkncHJXb6D7Egstalso4ivnIUkA1xEClViw==",
+      "path": "mvvmlightlibs/5.4.1.1",
+      "hashPath": "mvvmlightlibs.5.4.1.1.nupkg.sha512"
     },
     "NETStandard.Library/2.0.3": {
       "type": "package",

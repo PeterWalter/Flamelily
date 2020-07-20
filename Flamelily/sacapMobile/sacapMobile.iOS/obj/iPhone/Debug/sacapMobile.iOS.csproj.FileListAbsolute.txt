@@ -1,14 +1,11 @@
 C:\projects\sacap\Flamelily\Flamelily2\Flamelily\sacapMobile\sacapMobile.iOS\bin\iPhone\Debug\sacapMobile.iOS.exe
 C:\projects\sacap\Flamelily\Flamelily2\Flamelily\sacapMobile\sacapMobile.iOS\bin\iPhone\Debug\sacapMobile.iOS.pdb
 C:\projects\sacap\Flamelily\Flamelily2\Flamelily\sacapMobile\sacapMobile.iOS\bin\iPhone\Debug\CommonServiceLocator.dll
-C:\projects\sacap\Flamelily\Flamelily2\Flamelily\sacapMobile\sacapMobile.iOS\bin\iPhone\Debug\MvvmLight.XamarinForms.dll
 C:\projects\sacap\Flamelily\Flamelily2\Flamelily\sacapMobile\sacapMobile.iOS\bin\iPhone\Debug\GalaSoft.MvvmLight.Extras.dll
 C:\projects\sacap\Flamelily\Flamelily2\Flamelily\sacapMobile\sacapMobile.iOS\bin\iPhone\Debug\GalaSoft.MvvmLight.Extras.pdb
 C:\projects\sacap\Flamelily\Flamelily2\Flamelily\sacapMobile\sacapMobile.iOS\bin\iPhone\Debug\GalaSoft.MvvmLight.Platform.dll
 C:\projects\sacap\Flamelily\Flamelily2\Flamelily\sacapMobile\sacapMobile.iOS\bin\iPhone\Debug\GalaSoft.MvvmLight.dll
 C:\projects\sacap\Flamelily\Flamelily2\Flamelily\sacapMobile\sacapMobile.iOS\bin\iPhone\Debug\GalaSoft.MvvmLight.pdb
-C:\projects\sacap\Flamelily\Flamelily2\Flamelily\sacapMobile\sacapMobile.iOS\bin\iPhone\Debug\MvvmLightNavigationExtension.dll
-C:\projects\sacap\Flamelily\Flamelily2\Flamelily\sacapMobile\sacapMobile.iOS\bin\iPhone\Debug\MvvmLightNavigationExtension.iOS.dll
 C:\projects\sacap\Flamelily\Flamelily2\Flamelily\sacapMobile\sacapMobile.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
 C:\projects\sacap\Flamelily\Flamelily2\Flamelily\sacapMobile\sacapMobile.iOS\bin\iPhone\Debug\Plugin.FirebaseAuth.dll
 C:\projects\sacap\Flamelily\Flamelily2\Flamelily\sacapMobile\sacapMobile.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll

@@ -132,16 +132,7 @@
     <Reference Include="System.Numerics.Vectors" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="CommonServiceLocator">
-      <Version>2.0.5</Version>
-    </PackageReference>
-    <PackageReference Include="MvvmLight.XamarinForms">
-      <Version>1.0.1</Version>
-    </PackageReference>
     <PackageReference Include="MvvmLightLibs">
-      <Version>5.4.1.1</Version>
-    </PackageReference>
-    <PackageReference Include="MvvmLightLibsStd10">
       <Version>5.4.1.1</Version>
     </PackageReference>
     <PackageReference Include="Newtonsoft.Json">

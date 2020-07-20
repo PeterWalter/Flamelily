@@ -22,6 +22,7 @@ C:\projects\sacap\Flamelily\Flamelily2\Flamelily\sacapMobile\sacapMobile\bin\Deb
 C:\projects\sacap\Flamelily\Flamelily2\Flamelily\sacapMobile\sacapMobile\bin\Debug\netstandard2.0\sacapMobile.dll
 C:\projects\sacap\Flamelily\Flamelily2\Flamelily\sacapMobile\sacapMobile\bin\Debug\netstandard2.0\ref\sacapMobile.dll
 C:\projects\sacap\Flamelily\Flamelily2\Flamelily\sacapMobile\sacapMobile\bin\Debug\netstandard2.0\sacapMobile.pdb
+C:\projects\sacap\Flamelily\Flamelily2\Flamelily\sacapMobile\sacapMobile\obj\Debug\netstandard2.0\sacapMobile.csprojAssemblyReference.cache
 C:\projects\sacap\Flamelily\Flamelily2\Flamelily\sacapMobile\sacapMobile\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\projects\sacap\Flamelily\Flamelily2\Flamelily\sacapMobile\sacapMobile\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
 C:\projects\sacap\Flamelily\Flamelily2\Flamelily\sacapMobile\sacapMobile\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
