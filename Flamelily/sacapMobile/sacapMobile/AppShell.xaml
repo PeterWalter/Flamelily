@@ -7,6 +7,7 @@
        xmlns:local="clr-namespace:sacapMobile.Views"
        Title="SacapMobile"
        Shell.NavBarIsVisible="False"
+       Shell.FlyoutBehavior="Flyout"
        x:Class="sacapMobile.AppShell">
 
     <!-- 
@@ -29,6 +30,9 @@
             <Style TargetType="TabBar" BasedOn="{StaticResource BaseStyle}" />
         </ResourceDictionary>
     </Shell.Resources>
+    <!--<Shell.FlyoutHeader>
+        --><!--<controls/>--><!--
+    </Shell.FlyoutHeader>-->
 
     <!--pages not visible from shell-->
     <ShellItem Route="login">
@@ -40,7 +44,7 @@
     </ShellItem>
                     <!-- Your Pages -->
     <TabBar>
-        <Tab Title="Home" Icon="tab_feed.png" Route="home">
+        <Tab Title="Home" Route="home">
             <ShellContent ContentTemplate="{DataTemplate local:HomeView}" />
         </Tab>
         <Tab Title="About" Route="About">
@@ -48,7 +52,49 @@
         </Tab>
     </TabBar>
 
-    <!-- Optional Templates 
+    <FlyoutItem Title="Data">
+        <Tab>
+            <ShellContent>
+                <ContentPage/>
+            </ShellContent>
+        </Tab>
+    </FlyoutItem>
+    <FlyoutItem Title="Cape Town">
+        <Tab>
+            <ShellContent>
+                <ContentPage/>
+            </ShellContent>
+        </Tab>
+    </FlyoutItem>
+    <FlyoutItem Title="OnLine">
+        <Tab>
+            <ShellContent>
+                <ContentPage/>
+            </ShellContent>
+        </Tab>
+    </FlyoutItem>
+    <FlyoutItem Title="Joburg">
+        <Tab>
+            <ShellContent>
+                <ContentPage/>
+            </ShellContent>
+        </Tab>
+    </FlyoutItem>
+    <FlyoutItem Title="Pretoria">
+        <Tab>
+            <ShellContent>
+                <ContentPage/>
+            </ShellContent>
+        </Tab>
+    </FlyoutItem>
+    <FlyoutItem Title="Durban">
+        <Tab>
+            <ShellContent>
+                <ContentPage/>
+            </ShellContent>
+        </Tab>
+    </FlyoutItem>
+    <!-- Optional Templates  
     // These may be provided inline as below or as separate classes.
 
     // This header appears at the top of the Flyout.
