@@ -10,6 +10,17 @@ namespace sacapMobile.ViewModels
     public class LoginViewModel : ViewModelBase
     {
         public ICommand loginCommand { get; set; }
+        private string useremail;
+
+        public string Email
+        {
+            get { return useremail; }
+            set { 
+                    useremail = value;
+                    RaisePropertyChanged("Email");
+                }
+        }
+
 
         public LoginViewModel()
         {
@@ -18,6 +29,7 @@ namespace sacapMobile.ViewModels
 
         private async void loginasync(object obj)
         {
+
             await Shell.Current.GoToAsync("//registration");
         }
     }

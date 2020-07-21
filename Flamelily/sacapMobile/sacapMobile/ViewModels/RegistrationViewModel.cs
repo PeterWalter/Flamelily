@@ -18,7 +18,8 @@ namespace sacapMobile.ViewModels
 
         private async void loadingasync(object obj)
         {
-            await Shell.Current.GoToAsync("//home");
+            //await Shell.Current.GoToAsync("//home");
+            await Shell.Current.GoToAsync("//login");
         }
     }
 }

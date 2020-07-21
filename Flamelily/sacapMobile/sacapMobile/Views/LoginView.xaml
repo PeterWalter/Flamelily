@@ -10,9 +10,10 @@
         <StackLayout>
             <!--<Label Text="Welcome to SACAP!"
                 VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-            <Entry  Text="username" FontSize="Medium"/>-->
-            <Button Text="log-in" Command="{Binding loginCommand}"/>
+                HorizontalOptions="CenterAndExpand" />-->
+            <Entry  Placeholder="email" FontSize="Medium" Text="{Binding Email}" PlaceholderColor="#F0A9A9" Visual="Material" />
+            <Entry  Placeholder="password" IsPassword="True"  FontSize="Medium" Text="{Binding Password}"/>
+            <Button Text="log-in" Command="{Binding loginCommand}" Visual="Material"/>
         </StackLayout>
         
 
