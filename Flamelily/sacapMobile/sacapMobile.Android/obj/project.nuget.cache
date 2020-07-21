@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "IbEj+R0JgpVxlYc7+6yBM4CgpOfqFN0oz656IpdrXoC9fsgtYS0nT0heGDtTsjU6gBjiLLu+3EWnAzB1SD2qzg==",
+  "dgSpecHash": "uRKiasqWhHsCeXhjUcYcfBb8oLvl4Nqyfh39TARqIHBlVK1T8Nx9jd2vuqDSza4e95VEqeF2z7VnxY7SlNQ1IQ==",
   "success": true,
   "projectFilePath": "C:\\projects\\sacap\\Flamelily\\Flamelily2\\Flamelily\\sacapMobile\\sacapMobile.Android\\sacapMobile.Android.csproj",
   "expectedPackageFiles": [
@@ -54,6 +54,7 @@
     "C:\\Users\\peter.SACAP\\.nuget\\packages\\xamarin.firebase.common\\71.1610.0\\xamarin.firebase.common.71.1610.0.nupkg.sha512",
     "C:\\Users\\peter.SACAP\\.nuget\\packages\\xamarin.forms\\4.7.0.1142\\xamarin.forms.4.7.0.1142.nupkg.sha512",
     "C:\\Users\\peter.SACAP\\.nuget\\packages\\xamarin.forms.pancakeview\\2.0.1.698\\xamarin.forms.pancakeview.2.0.1.698.nupkg.sha512",
+    "C:\\Users\\peter.SACAP\\.nuget\\packages\\xamarin.forms.visual.material\\4.7.0.1142\\xamarin.forms.visual.material.4.7.0.1142.nupkg.sha512",
     "C:\\Users\\peter.SACAP\\.nuget\\packages\\xamarin.google.autovalue.annotations\\1.6.5\\xamarin.google.autovalue.annotations.1.6.5.nupkg.sha512",
     "C:\\Users\\peter.SACAP\\.nuget\\packages\\xamarin.googleplayservices.base\\71.1610.0\\xamarin.googleplayservices.base.71.1610.0.nupkg.sha512",
     "C:\\Users\\peter.SACAP\\.nuget\\packages\\xamarin.googleplayservices.basement\\71.1620.0\\xamarin.googleplayservices.basement.71.1620.0.nupkg.sha512",

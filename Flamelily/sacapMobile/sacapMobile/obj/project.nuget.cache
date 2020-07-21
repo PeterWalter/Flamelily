@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "BAiBclOJtnxf//KelkTxh8NUKj5GJuoXja0hzwzBZXemvdK09a3Eci9NYBb/xhrZcsAP87pWid5SLOO6dwsiFg==",
+  "dgSpecHash": "iukRDL4fCHAes+4J9PJ1qNV76ZpyKG6yDumglWg0XwR22cNd0fx8DMgZLe4EeepDWXmFaoJZP00FuEsHR6lr8Q==",
   "success": true,
   "projectFilePath": "C:\\projects\\sacap\\Flamelily\\Flamelily2\\Flamelily\\sacapMobile\\sacapMobile\\sacapMobile.csproj",
   "expectedPackageFiles": [
@@ -15,7 +15,8 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
     "C:\\Users\\peter.SACAP\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
     "C:\\Users\\peter.SACAP\\.nuget\\packages\\xamarin.forms\\4.7.0.1142\\xamarin.forms.4.7.0.1142.nupkg.sha512",
-    "C:\\Users\\peter.SACAP\\.nuget\\packages\\xamarin.forms.pancakeview\\2.0.1.698\\xamarin.forms.pancakeview.2.0.1.698.nupkg.sha512"
+    "C:\\Users\\peter.SACAP\\.nuget\\packages\\xamarin.forms.pancakeview\\2.0.1.698\\xamarin.forms.pancakeview.2.0.1.698.nupkg.sha512",
+    "C:\\Users\\peter.SACAP\\.nuget\\packages\\xamarin.forms.visual.material\\4.7.0.1142\\xamarin.forms.visual.material.4.7.0.1142.nupkg.sha512"
   ],
   "logs": [
     {

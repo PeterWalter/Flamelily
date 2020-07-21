@@ -43,6 +43,7 @@ Xamarin.Essentials
 Xamarin.Firebase.Auth
 Xamarin.Firebase.Auth.Interop
 Xamarin.Firebase.Common
+Xamarin.Forms.Material
 Xamarin.Forms.PancakeView
 Xamarin.Forms.Platform.Android
 Xamarin.Forms.Platform

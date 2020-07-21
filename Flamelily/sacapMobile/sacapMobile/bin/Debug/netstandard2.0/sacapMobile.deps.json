@@ -15,7 +15,8 @@
           "Plugin.FirebaseAuth": "3.1.0",
           "Xamarin.Essentials": "1.5.3.2",
           "Xamarin.Forms": "4.7.0.1142",
-          "Xamarin.Forms.PancakeView": "2.0.1.698"
+          "Xamarin.Forms.PancakeView": "2.0.1.698",
+          "Xamarin.Forms.Visual.Material": "4.7.0.1142"
         },
         "runtime": {
           "sacapMobile.dll": {}
@@ -127,6 +128,11 @@
             "fileVersion": "2.0.1.0"
           }
         }
+      },
+      "Xamarin.Forms.Visual.Material/4.7.0.1142": {
+        "dependencies": {
+          "Xamarin.Forms": "4.7.0.1142"
+        }
       }
     }
   },
@@ -219,6 +225,13 @@
       "sha512": "sha512-wjem1ckhesY3UoD+rEpg6mysRG85RcO7hrXcFWpq2fKyTL4YKuH8GTmaaL87q/lyhvk0GCRoJFLgYcOJWsUk5w==",
       "path": "xamarin.forms.pancakeview/2.0.1.698",
       "hashPath": "xamarin.forms.pancakeview.2.0.1.698.nupkg.sha512"
+    },
+    "Xamarin.Forms.Visual.Material/4.7.0.1142": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fGYVPUQuQiro+7cGPnza0r1UJ/cSeU0jM/iGrJXxB2JyJLGi0R8SwjAbHSve1hcK5kM3vh2GevHtjPY4ciQIVQ==",
+      "path": "xamarin.forms.visual.material/4.7.0.1142",
+      "hashPath": "xamarin.forms.visual.material.4.7.0.1142.nupkg.sha512"
     }
   }
 }

@@ -68,3 +68,6 @@ C:\projects\sacap\Flamelily\Flamelily2\Flamelily\sacapMobile\sacapMobile.iOS\obj
 C:\projects\sacap\Flamelily\Flamelily2\Flamelily\sacapMobile\sacapMobile.iOS\obj\iPhone\Debug\sacapMobile.iOS.csproj.CopyComplete
 C:\projects\sacap\Flamelily\Flamelily2\Flamelily\sacapMobile\sacapMobile.iOS\obj\iPhone\Debug\sacapMobile.iOS.exe
 C:\projects\sacap\Flamelily\Flamelily2\Flamelily\sacapMobile\sacapMobile.iOS\obj\iPhone\Debug\sacapMobile.iOS.pdb
+C:\projects\sacap\Flamelily\Flamelily2\Flamelily\sacapMobile\sacapMobile.iOS\bin\iPhone\Debug\Xamarin.Forms.Material.dll
+C:\projects\sacap\Flamelily\Flamelily2\Flamelily\sacapMobile\sacapMobile.iOS\bin\iPhone\Debug\Xamarin.Forms.Material.pdb
+C:\projects\sacap\Flamelily\Flamelily2\Flamelily\sacapMobile\sacapMobile.iOS\bin\iPhone\Debug\MaterialComponents.dll

@@ -245,6 +245,27 @@
           "lib/xamarinios10/Xamarin.Forms.PancakeView.dll": {}
         }
       },
+      "Xamarin.Forms.Visual.Material/4.7.0.1142": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.iOS.MaterialComponents": "92.0.0"
+        },
+        "compile": {
+          "lib/Xamarin.iOS10/Xamarin.Forms.Material.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Xamarin.Forms.Material.dll": {}
+        }
+      },
+      "Xamarin.iOS.MaterialComponents/92.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS/MaterialComponents.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS/MaterialComponents.dll": {}
+        }
+      },
       "sacapMobile/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -254,7 +275,8 @@
           "Plugin.FirebaseAuth": "3.1.0",
           "Xamarin.Essentials": "1.5.3.2",
           "Xamarin.Forms": "4.7.0.1142",
-          "Xamarin.Forms.PancakeView": "2.0.1.698"
+          "Xamarin.Forms.PancakeView": "2.0.1.698",
+          "Xamarin.Forms.Visual.Material": "4.7.0.1142"
         },
         "compile": {
           "bin/placeholder/sacapMobile.dll": {}
@@ -508,6 +530,27 @@
           "lib/xamarinios10/Xamarin.Forms.PancakeView.dll": {}
         }
       },
+      "Xamarin.Forms.Visual.Material/4.7.0.1142": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.iOS.MaterialComponents": "92.0.0"
+        },
+        "compile": {
+          "lib/Xamarin.iOS10/Xamarin.Forms.Material.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Xamarin.Forms.Material.dll": {}
+        }
+      },
+      "Xamarin.iOS.MaterialComponents/92.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS/MaterialComponents.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS/MaterialComponents.dll": {}
+        }
+      },
       "sacapMobile/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -517,7 +560,8 @@
           "Plugin.FirebaseAuth": "3.1.0",
           "Xamarin.Essentials": "1.5.3.2",
           "Xamarin.Forms": "4.7.0.1142",
-          "Xamarin.Forms.PancakeView": "2.0.1.698"
+          "Xamarin.Forms.PancakeView": "2.0.1.698",
+          "Xamarin.Forms.Visual.Material": "4.7.0.1142"
         },
         "compile": {
           "bin/placeholder/sacapMobile.dll": {}
@@ -771,6 +815,27 @@
           "lib/xamarinios10/Xamarin.Forms.PancakeView.dll": {}
         }
       },
+      "Xamarin.Forms.Visual.Material/4.7.0.1142": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.iOS.MaterialComponents": "92.0.0"
+        },
+        "compile": {
+          "lib/Xamarin.iOS10/Xamarin.Forms.Material.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Xamarin.Forms.Material.dll": {}
+        }
+      },
+      "Xamarin.iOS.MaterialComponents/92.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS/MaterialComponents.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS/MaterialComponents.dll": {}
+        }
+      },
       "sacapMobile/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -780,7 +845,8 @@
           "Plugin.FirebaseAuth": "3.1.0",
           "Xamarin.Essentials": "1.5.3.2",
           "Xamarin.Forms": "4.7.0.1142",
-          "Xamarin.Forms.PancakeView": "2.0.1.698"
+          "Xamarin.Forms.PancakeView": "2.0.1.698",
+          "Xamarin.Forms.Visual.Material": "4.7.0.1142"
         },
         "compile": {
           "bin/placeholder/sacapMobile.dll": {}
@@ -1034,6 +1100,27 @@
           "lib/xamarinios10/Xamarin.Forms.PancakeView.dll": {}
         }
       },
+      "Xamarin.Forms.Visual.Material/4.7.0.1142": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.iOS.MaterialComponents": "92.0.0"
+        },
+        "compile": {
+          "lib/Xamarin.iOS10/Xamarin.Forms.Material.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Xamarin.Forms.Material.dll": {}
+        }
+      },
+      "Xamarin.iOS.MaterialComponents/92.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS/MaterialComponents.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS/MaterialComponents.dll": {}
+        }
+      },
       "sacapMobile/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -1043,7 +1130,8 @@
           "Plugin.FirebaseAuth": "3.1.0",
           "Xamarin.Essentials": "1.5.3.2",
           "Xamarin.Forms": "4.7.0.1142",
-          "Xamarin.Forms.PancakeView": "2.0.1.698"
+          "Xamarin.Forms.PancakeView": "2.0.1.698",
+          "Xamarin.Forms.Visual.Material": "4.7.0.1142"
         },
         "compile": {
           "bin/placeholder/sacapMobile.dll": {}
@@ -1734,6 +1822,43 @@
         "lib/xamarinios10/Xamarin.Forms.PancakeView.dll",
         "xamarin.forms.pancakeview.2.0.1.698.nupkg.sha512",
         "xamarin.forms.pancakeview.nuspec"
+      ]
+    },
+    "Xamarin.Forms.Visual.Material/4.7.0.1142": {
+      "sha512": "fGYVPUQuQiro+7cGPnza0r1UJ/cSeU0jM/iGrJXxB2JyJLGi0R8SwjAbHSve1hcK5kM3vh2GevHtjPY4ciQIVQ==",
+      "type": "package",
+      "path": "xamarin.forms.visual.material/4.7.0.1142",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Assets/xamarin_128x128.png",
+        "build/MonoAndroid10/Xamarin.Forms.Visual.Material.targets",
+        "buildTransitive/MonoAndroid10/Xamarin.Forms.Visual.Material.targets",
+        "lib/MonoAndroid10.0/Xamarin.Forms.Material.dll",
+        "lib/MonoAndroid10.0/Xamarin.Forms.Material.pdb",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoAndroid90/Xamarin.Forms.Material.dll",
+        "lib/MonoAndroid90/Xamarin.Forms.Material.pdb",
+        "lib/Xamarin.iOS10/Xamarin.Forms.Material.dll",
+        "lib/Xamarin.iOS10/Xamarin.Forms.Material.pdb",
+        "lib/netstandard1.0/_._",
+        "lib/tizen40/Xamarin.Forms.Material.dll",
+        "lib/tizen40/Xamarin.Forms.Material.pdb",
+        "xamarin.forms.visual.material.4.7.0.1142.nupkg.sha512",
+        "xamarin.forms.visual.material.nuspec"
+      ]
+    },
+    "Xamarin.iOS.MaterialComponents/92.0.0": {
+      "sha512": "I0mVxJBHsaR2NtFbZmafSLmIB4FUOSfSOf1SW3i2UA0TyoWr+F0AdrLtPRQtXq97LUg0fEnWhaq+4suVxbDbFw==",
+      "type": "package",
+      "path": "xamarin.ios.materialcomponents/92.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "THIRD-PARTY-NOTICES.txt",
+        "lib/Xamarin.iOS/MaterialComponents.dll",
+        "xamarin.ios.materialcomponents.92.0.0.nupkg.sha512",
+        "xamarin.ios.materialcomponents.nuspec"
       ]
     },
     "sacapMobile/1.0.0": {

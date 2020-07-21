@@ -5,15 +5,22 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
              x:Class="sacapMobile.Views.LoginView"
+             Visual="Material"
              BindingContext="Binding loginVM, Source={StaticResource Locator}">
     <ContentPage.Content>
-        <StackLayout>
-            <!--<Label Text="Welcome to SACAP!"
+        <StackLayout Margin="10">
+            <Label Text="Welcome to SACAP!"
                 VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />-->
-            <Entry  Placeholder="email" FontSize="Medium" Text="{Binding Email}" PlaceholderColor="#F0A9A9" Visual="Material" />
-            <Entry  Placeholder="password" IsPassword="True"  FontSize="Medium" Text="{Binding Password}"/>
-            <Button Text="log-in" Command="{Binding loginCommand}" Visual="Material"/>
+                HorizontalOptions="CenterAndExpand" />
+            <Entry  Placeholder="Enter email address" 
+                    FontSize="Medium" Text="{Binding Email, Mode=TwoWay}" 
+                    PlaceholderColor="#F0A9A9" />
+            <Entry  Placeholder="password" 
+                    IsPassword="True"  
+                    FontSize="Medium" 
+                    Text="{Binding Password, Mode=TwoWay}"/>
+            <Button Text="log-in" 
+                    Command="{Binding loginCommand}" BorderColor="#9B9393" BackgroundColor="#122FCF"/>
         </StackLayout>
         
 

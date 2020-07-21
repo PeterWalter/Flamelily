@@ -16,6 +16,7 @@ namespace sacapMobile.ViewModels
         {
             get { return useremail; }
             set { 
+                    if (useremail == value) return;
                     useremail = value;
                     RaisePropertyChanged("Email");
                 }
@@ -29,8 +30,15 @@ namespace sacapMobile.ViewModels
 
         private async void loginasync(object obj)
         {
-
-            await Shell.Current.GoToAsync("//registration");
+            if (!String.IsNullOrEmpty(useremail))
+                {
+                await Shell.Current.GoToAsync("//home");
+                }
+            else
+            {
+                await Shell.Current.GoToAsync("//registration");
+            }
+           
         }
     }
 }

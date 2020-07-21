@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "I85J5b7oQptCrp+7kyuGJeiQimHH9Q72W5Ns9xEhRh/7ttZOTzB8Fopyh0SoSzaOhL0PIN30sJD3kYPnWqGlUQ==",
+  "dgSpecHash": "nrlZEdN5XA6ea8RDfVboi+P13O1nX8OySDGKyDAJvNIFQKnUgZYHS4he1vxvD2cyeJ4V3EysTTrOTuvFftpDRA==",
   "success": true,
   "projectFilePath": "C:\\projects\\sacap\\Flamelily\\Flamelily2\\Flamelily\\sacapMobile\\sacapMobile.iOS\\sacapMobile.iOS.csproj",
   "expectedPackageFiles": [
@@ -14,7 +14,9 @@
     "C:\\Users\\peter.SACAP\\.nuget\\packages\\xamarin.firebase.ios.auth\\6.5.1\\xamarin.firebase.ios.auth.6.5.1.nupkg.sha512",
     "C:\\Users\\peter.SACAP\\.nuget\\packages\\xamarin.firebase.ios.core\\6.6.6\\xamarin.firebase.ios.core.6.6.6.nupkg.sha512",
     "C:\\Users\\peter.SACAP\\.nuget\\packages\\xamarin.forms\\4.7.0.1142\\xamarin.forms.4.7.0.1142.nupkg.sha512",
-    "C:\\Users\\peter.SACAP\\.nuget\\packages\\xamarin.forms.pancakeview\\2.0.1.698\\xamarin.forms.pancakeview.2.0.1.698.nupkg.sha512"
+    "C:\\Users\\peter.SACAP\\.nuget\\packages\\xamarin.forms.pancakeview\\2.0.1.698\\xamarin.forms.pancakeview.2.0.1.698.nupkg.sha512",
+    "C:\\Users\\peter.SACAP\\.nuget\\packages\\xamarin.forms.visual.material\\4.7.0.1142\\xamarin.forms.visual.material.4.7.0.1142.nupkg.sha512",
+    "C:\\Users\\peter.SACAP\\.nuget\\packages\\xamarin.ios.materialcomponents\\92.0.0\\xamarin.ios.materialcomponents.92.0.0.nupkg.sha512"
   ],
   "logs": []
 }
