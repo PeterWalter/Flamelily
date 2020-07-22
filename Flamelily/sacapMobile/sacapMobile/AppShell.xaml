@@ -53,6 +53,12 @@
         <Tab Title="Campuses" Route="campuses">
             <ShellContent ContentTemplate="{DataTemplate local:CampusView}" />
         </Tab>
+        <Tab Title="Chat" Route="chat">
+            <ShellContent ContentTemplate="{DataTemplate local:ChatView}" />
+        </Tab>
+        <Tab Title="Settings" Route="settings">
+            <ShellContent ContentTemplate="{DataTemplate local:SettingsView}" />
+        </Tab>
     </TabBar>
 
     <FlyoutItem Title="Data">

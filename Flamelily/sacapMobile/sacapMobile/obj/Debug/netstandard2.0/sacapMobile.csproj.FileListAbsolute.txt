@@ -39,3 +39,6 @@ C:\projects\sacap\Flamelily\Flamelily2\Flamelily\sacapMobile\sacapMobile\obj\Deb
 C:\projects\sacap\Flamelily\Flamelily2\Flamelily\sacapMobile\sacapMobile\obj\Debug\netstandard2.0\sacapMobile.pdb
 C:\projects\sacap\Flamelily\Flamelily2\Flamelily\sacapMobile\sacapMobile\obj\Debug\netstandard2.0\sacapMobile.csproj.CoreCompileInputs.cache
 C:\projects\sacap\Flamelily\Flamelily2\Flamelily\sacapMobile\sacapMobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\projects\sacap\Flamelily\Flamelily2\Flamelily\sacapMobile\sacapMobile\obj\Debug\netstandard2.0\sacapMobile.csprojAssemblyReference.cache
+C:\projects\sacap\Flamelily\Flamelily2\Flamelily\sacapMobile\sacapMobile\obj\Debug\netstandard2.0\Views\ChatView.xaml.g.cs
+C:\projects\sacap\Flamelily\Flamelily2\Flamelily\sacapMobile\sacapMobile\obj\Debug\netstandard2.0\Views\SettingsView.xaml.g.cs
