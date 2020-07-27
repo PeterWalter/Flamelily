@@ -10,6 +10,8 @@ namespace sacapMobile.ViewModels
     public class LoginViewModel : ViewModelBase
     {
         public ICommand loginCommand { get; set; }
+        public ICommand registerCommand { get; set; }
+        public ICommand forgotpasswordCommand { get; set; }
         private string useremail;
 
         public string Email
@@ -26,9 +28,21 @@ namespace sacapMobile.ViewModels
         public LoginViewModel()
         {
             loginCommand = new Command(loginasync);
+            registerCommand = new Command(registerasync);
+            forgotpasswordCommand = new Command(forgotpasswordasync);
         }
 
-        private async void loginasync(object obj)
+        private async void registerasync()
+        {
+            await Shell.Current.GoToAsync("//registration");
+        }
+
+        private async void forgotpasswordasync()
+        {
+            await Shell.Current.GoToAsync("//home");
+        }
+
+        private async void loginasync()
         {
             if (!String.IsNullOrEmpty(useremail))
                 {
